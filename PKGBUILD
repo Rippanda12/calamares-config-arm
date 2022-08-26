@@ -1,10 +1,10 @@
 # Maintainer: DarkXero <info@techxero.com>
-pkgname=calamares-config
+pkgname=calamares-config-arm
 _destname1="/etc"
 pkgver=22.07
 pkgrel=1
-pkgdesc="calamares Config for XeroLinux"
-arch=('any')
+pkgdesc="Calamares Config for XeroLinux"
+arch=('aarch64")
 url="https://github.com/XeroLinux"
 license=('GPL3')
 makedepends=('git')
